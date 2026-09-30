@@ -1,0 +1,11 @@
+{
+  "range_mode": "selection",
+  "read_mode": "col_full",
+  "n_count": 2,
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "speed_idx": 4,
+  "interval_sec": 0.2,
+  "red_box": true,
+  "auto_scroll": true,
+  "skip_empty": true
+}
